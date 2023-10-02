@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there! 👋
+![](https://raw.githubusercontent.com/garrysjh/stats/c98478369fd6e3aa4f7ea1920b4f511947a3ca53/generated/overview.svg)
 <!--
 **garrysjh/garrysjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
